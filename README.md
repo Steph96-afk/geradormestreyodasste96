@@ -1,2 +1,2 @@
-# geradoryodasste96
+# geradormestreyodasste96
 Gerador de senha Yoda

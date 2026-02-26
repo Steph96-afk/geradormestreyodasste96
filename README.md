@@ -28,4 +28,4 @@ Organização de projeto frontend
 
 
 
-<img width="1903" height="962" alt="Captura de tela 2026-02-25 210205" src="https://github.com/user-attachments/assets/231e6d5f-a7bf-4001-8ee9-0b3a462d2a4e" />
+<img width="1919" height="962" alt="Captura de tela 2026-02-25 210205" src="https://github.com/user-attachments/assets/231e6d5f-a7bf-4001-8ee9-0b3a462d2a4e" />

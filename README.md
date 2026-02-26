@@ -27,5 +27,7 @@ Estilização com CSS
 Organização de projeto frontend
 
 
+## 📸 Preview
 
+![Print principal do Gerador Yoda](./assets/.png)
 <img width="1919" height="962" alt="Captura de tela 2026-02-25 210205" src="https://github.com/user-attachments/assets/231e6d5f-a7bf-4001-8ee9-0b3a462d2a4e" />

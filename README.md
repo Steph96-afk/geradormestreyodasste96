@@ -21,11 +21,6 @@ Focado em praticar HTML + CSS e organização de layout.
    ```bash
    git clone https://github.com/Steph96-afk/geradormestreyodasste96.git
 
-# Aprendizados
-Estrutura básica de páginas HTML
-Estilização com CSS
-Organização de projeto frontend
-
 
 ## 📸 Preview
 

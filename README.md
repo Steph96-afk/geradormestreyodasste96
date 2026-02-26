@@ -26,6 +26,8 @@ Estrutura básica de páginas HTML
 Estilização com CSS
 Organização de projeto frontend
 
+## 📸 Preview
+![Preview do Gerador Yoda](./assets/preview.png)
 <img width="1903" height="962" alt="Captura de tela 2026-02-25 210205" src="https://github.com/user-attachments/assets/010ae2fd-746b-4c56-8b27-2e58d265f3ae" />
 
 <img width="1913" height="962" alt="Captura de tela 2026-02-25 210224" src="https://github.com/user-attachments/assets/aaf92322-97f4-41a8-a567-b941a5a03113" />
